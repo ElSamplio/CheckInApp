@@ -10,7 +10,7 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon_metalco.png",
+    "icon": "./assets/icon_metalco_nt.jpg",
     "splash": {
       "image": "./assets/logo_metalco_white_bg.png",
       "resizeMode": "contain",
